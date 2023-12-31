@@ -64,20 +64,7 @@ export const Skill_data = [
       Image: "/stripe.webp",
       width: 80,
       height: 80,
-    },
-    {
-      skill_name: "Node js",
-      Image: "/node-js.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "Mongo db",
-      Image: "/mongodb.png",
-      width: 40,
-      height: 40,
-    },
-  
+    }
   ];
   
   export const Socials = [
@@ -99,19 +86,19 @@ export const Skill_data = [
   
   export const Frontend_skill = [
     {
-      skill_name: "Html 5",
+      skill_name: "Html5",
       Image: "/html.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "Css",
+      skill_name: "CSS3",
       Image: "/css.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "Java Script",
+      skill_name: "JavaScript",
       Image: "/js.png",
       width: 65,
       height: 65,
@@ -180,47 +167,29 @@ export const Skill_data = [
       height: 40,
     },
     {
-      skill_name: "Fire base",
+      skill_name: "Firebase",
       Image: "/Firebase.png",
       width: 55,
       height: 55,
     },
     {
-      skill_name: "Postger SQL",
+      skill_name: "PostgreSQL",
       Image: "/postger.png",
       width: 70,
       height: 70,
     },
     {
-      skill_name: "My SQL",
+      skill_name: "MySQL",
       Image: "/mysql.png",
       width: 70,
       height: 70,
-    },
-    {
-      skill_name: "Prisma",
-      Image: "/prisma.webp",
-      width: 70,
-      height: 70,
-    },
-    {
-      skill_name: "Graphql",
-      Image: "/graphql.png",
-      width: 80,
-      height: 80,
-    },
+    }
   ];
   
   export const Full_stack = [
     {
       skill_name: "React Native",
       Image: "/ReactNative .png",
-      width: 70,
-      height: 70,
-    },
-    {
-      skill_name: "Tauri",
-      Image: "/tauri.svg",
       width: 70,
       height: 70,
     },
@@ -243,12 +212,12 @@ export const Skill_data = [
   
   
   export const Other_skill = [
-    {
+    /* {
       skill_name: "Go",
       Image: "/go.png",
       width: 60,
       height: 60,
-    },
+    }, */
   ];
   
   
